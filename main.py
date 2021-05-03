@@ -26,14 +26,14 @@ Citas =[]
 
 #Citas.append(Cita('01/02/4812','10 am','Dolor de cabeza','Julio','Pendiente','Te chingas'))
 
-#Medicamentos.append(Medicamento('Desemputol','Q.190','Alivia toda clase de enojos por ipc',15))
+
 #Medicamentos.append(Medicamento('ARRIBA','Q.190','IDK',10))
 
 #Doctores.append(Doctor('Linardo','Juarez','02/02/1995','H','lINA12','6321','Cirujano plastico',74125896))
 
 #Enfermeras.append(Enfermera('Diana','Dias','01/07/2001','H','DD','123',50138833))
 
-Personas.append(Persona('Julio','Pernillo','01/07/2001','H','Pernillo918','50138833',50138833))
+#Personas.append(Persona('Julio','Pernillo','01/07/2001','H','Pernillo918','50138833',50138833))
 
 
 
