@@ -33,7 +33,7 @@ Citas =[]
 
 #Enfermeras.append(Enfermera('Diana','Dias','01/07/2001','H','DD','123',50138833))
 
-#Personas.append(Persona('Julio','Pernillo','01/07/2001','H','Pernillo918','50138833',50138833))
+Personas.append(Persona('Julio','Pernillo','01/07/2001','H','Pernillo918','50138833',50138833))
 
 
 
